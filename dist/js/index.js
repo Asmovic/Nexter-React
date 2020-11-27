@@ -37597,7 +37597,7 @@ __webpack_require__.r(__webpack_exports__);
   }, "Top 3 Realtors"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "realtors__list"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    src: "img/realtor-1.jpeg",
+    src: "img/realtor-1.jpg",
     alt: "Realtor 1",
     className: "realtors__img"
   }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
@@ -37607,7 +37607,7 @@ __webpack_require__.r(__webpack_exports__);
   }, "Okeowo Samson"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "realtors__sold"
   }, "345 houses sold")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    src: "img/realtor-2.jpeg",
+    src: "img/realtor-2.jpg",
     alt: "Realtor 2",
     className: "realtors__img"
   }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
@@ -37617,7 +37617,7 @@ __webpack_require__.r(__webpack_exports__);
   }, "Dantata Aisha"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "realtors__sold"
   }, "280 houses sold")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    src: "img/realtor-3.jpeg",
+    src: "img/realtor-3.jpg",
     alt: "Realtor 3",
     className: "realtors__img"
   }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
