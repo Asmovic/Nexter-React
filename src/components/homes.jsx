@@ -10,7 +10,7 @@ import React from 'react';
 export default () => (
   <section className="homes">
     <div className="home">
-      <img src="https://i.ibb.co/34xNhJP/house-1.jpg" alt="House 1" className="home__img" />
+      <img src="img/house-1.jpg" alt="House 1" className="home__img" />
       <svg className="home__like">
         <use xlinkHref="/sprite.svg#icon-heart-full" />
       </svg>
@@ -45,7 +45,7 @@ export default () => (
       <div className="btn home__btn">Contact realtor</div>
     </div>
     <div className="home">
-      <img src="https://i.ibb.co/ZTdB7gZ/house-2.jpg" alt="House 2" className="home__img" />
+      <img src="img/house-2.jpg" alt="House 2" className="home__img" />
       <svg className="home__like">
         <use xlinkHref="/sprite.svg#icon-heart-full" />
       </svg>
@@ -80,7 +80,7 @@ export default () => (
       <div className="btn home__btn">Contact realtor</div>
     </div>
     <div className="home">
-      <img src="https://i.ibb.co/PjFWYdr/house-3.jpg" alt="House 3" className="home__img" />
+      <img src="img/house-3.jpg" alt="House 3" className="home__img" />
       <svg className="home__like">
         <use xlinkHref="/sprite.svg#icon-heart-full" />
       </svg>
@@ -115,7 +115,7 @@ export default () => (
       <div className="btn home__btn">Contact realtor</div>
     </div>
     <div className="home">
-      <img src="https://i.ibb.co/GWHyXyw/house-4.jpg" alt="House 4" className="home__img" />
+      <img src="img/house-4.jpg" alt="House 4" className="home__img" />
       <svg className="home__like">
         <use xlinkHref="/sprite.svg#icon-heart-full" />
       </svg>
@@ -150,7 +150,7 @@ export default () => (
       <div className="btn home__btn">Contact realtor</div>
     </div>
     <div className="home">
-      <img src="https://i.ibb.co/5cYYLmC/house-5.jpg" alt="House 5" className="home__img" />
+      <img src="img/house-5.jpg" alt="House 5" className="home__img" />
       <svg className="home__like">
         <use xlinkHref="/sprite.svg#icon-heart-full" />
       </svg>
@@ -185,7 +185,7 @@ export default () => (
       <div className="btn home__btn">Contact realtor</div>
     </div>
     <div className="home">
-      <img src="https://i.ibb.co/7tLn4vk/house-6.jpg" alt="House 6" className="home__img" />
+      <img src="img/house-6.jpg" alt="House 6" className="home__img" />
       <svg className="home__like">
         <use xlinkHref="/sprite.svg#icon-heart-full" />
       </svg>

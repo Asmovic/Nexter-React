@@ -9,8 +9,8 @@ import React from 'react';
 
 export default () => (
   <div className="story__pictures">
-    <img src="https://i.ibb.co/r47djxr/story-1.jpg" alt="Couple" className="story__img--1" />
-    <img src="https://i.ibb.co/PF18YP7/story-2.jpg" alt="New house" className="story__img--2" />
+    <img src="img/story-1.jpg" alt="Couple" className="story__img--1" />
+    <img src="img/story-2.jpg" alt="New house" className="story__img--2" />
   </div>
 
 );

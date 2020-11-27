@@ -1,4 +1,6 @@
-let mix = require('laravel-mix');
+/* eslint-disable import/no-extraneous-dependencies */
+/* eslint-disable max-len */
+const mix = require('laravel-mix');
 
 /*
  |--------------------------------------------------------------------------
@@ -11,32 +13,25 @@ let mix = require('laravel-mix');
  |
  */
 
-
-
 // Configure what it does
 mix.setPublicPath('dist')
-    .react('src/index.jsx', 'dist/js/')
-    .sass('src/sass/main.scss', 'dist/css/')
-    .copy('src/static', 'dist');
-
+  .react('src/index.jsx', 'dist/js/')
+  .sass('src/sass/main.scss', 'dist/css/')
+  .copy('src/static', 'dist');
 
 if (mix.inProduction()) {
-    mix.version();
+  mix.version();
 }
 
-
 mix.browserSync({
-    proxy: 'localhost:5000',
-    port: '3000',
-    files: [
-        'src/**/*.jsx',
-        'src/**/*.js',
-        'src/**/*.scss'
-    ],
+  proxy: 'localhost:5000',
+  port: '3000',
+  files: [
+    'src/**/*.jsx',
+    'src/**/*.js',
+    'src/**/*.scss'
+  ],
 });
-
-
-
 
 // Full API
 // mix.js(src, output);

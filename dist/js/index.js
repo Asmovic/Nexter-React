@@ -37206,85 +37206,85 @@ __webpack_require__.r(__webpack_exports__);
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("figure", {
     className: "gallery__item gallery__item--1"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    src: "https://i.ibb.co/L93Vv7C/gal-1.jpg",
+    src: "img/gal-1.jpg",
     alt: "Gallery image 1",
     className: "gallery__img"
   })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("figure", {
     className: "gallery__item gallery__item--2"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    src: "https://i.ibb.co/vJxZ6BR/gal-2.jpg",
+    src: "img/gal-2.jpg",
     alt: "Gallery image 2",
     className: "gallery__img"
   })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("figure", {
     className: "gallery__item gallery__item--3"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    src: "https://i.ibb.co/XZ62Q1B/gal-3.jpg",
+    src: "img/gal-3.jpg",
     alt: "Gallery image 3",
     className: "gallery__img"
   })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("figure", {
     className: "gallery__item gallery__item--4"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    src: "https://i.ibb.co/VQ1My08/gal-4.jpg",
+    src: "img/gal-4.jpg",
     alt: "Gallery image 4",
     className: "gallery__img"
   })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("figure", {
     className: "gallery__item gallery__item--5"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    src: "https://i.ibb.co/r6bVDyS/gal-5.jpg",
+    src: "img/gal-5.jpg",
     alt: "Gallery image 5",
     className: "gallery__img"
   })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("figure", {
     className: "gallery__item gallery__item--6"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    src: "https://i.ibb.co/p45MjxM/gal-6.jpg",
+    src: "img/gal-6.jpg",
     alt: "Gallery image 6",
     className: "gallery__img"
   })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("figure", {
     className: "gallery__item gallery__item--7"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    src: "https://i.ibb.co/G7RxtzG/gal-7.jpg",
+    src: "img/gal-7.jpg",
     alt: "Gallery image 7",
     className: "gallery__img"
   })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("figure", {
     className: "gallery__item gallery__item--8"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    src: "https://i.ibb.co/NSt9kZv/gal-8.jpg",
+    src: "img/gal-8.jpg",
     alt: "Gallery image 8",
     className: "gallery__img"
   })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("figure", {
     className: "gallery__item gallery__item--9"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    src: "https://i.ibb.co/MhzdLMG/gal-9.jpg",
+    src: "img/gal-9.jpg",
     alt: "Gallery image 9",
     className: "gallery__img"
   })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("figure", {
     className: "gallery__item gallery__item--10"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    src: "https://i.ibb.co/CvW2n4Q/gal-10.jpg",
+    src: "img/gal-10.jpg",
     alt: "Gallery image 10",
     className: "gallery__img"
   })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("figure", {
     className: "gallery__item gallery__item--11"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    src: "https://i.ibb.co/H4QbYkh/gal-11.jpg",
+    src: "img/gal-11.jpg",
     alt: "Gallery image 11",
     className: "gallery__img"
   })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("figure", {
     className: "gallery__item gallery__item--12"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    src: "https://i.ibb.co/1062J7c/gal-12.jpg",
+    src: "img/gal-12.jpg",
     alt: "Gallery image 12",
     className: "gallery__img"
   })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("figure", {
     className: "gallery__item gallery__item--13"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    src: "https://i.ibb.co/tPvsqmn/gal-13.jpg",
+    src: "img/gal-13.jpg",
     alt: "Gallery image 13",
     className: "gallery__img"
   })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("figure", {
     className: "gallery__item gallery__item--14"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    src: "https://i.ibb.co/56gPPVV/gal-14.jpg",
+    src: "img/gal-14.jpg",
     alt: "Gallery image 14",
     className: "gallery__img"
   })));
@@ -37321,7 +37321,7 @@ __webpack_require__.r(__webpack_exports__);
   return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("header", {
     className: "header"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    src: "https://i.ibb.co/7N2q2Ts/logo.png",
+    src: "img/logo.png",
     alt: "Nextar logo",
     className: "header__logo"
   }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h3", {
@@ -37335,16 +37335,16 @@ __webpack_require__.r(__webpack_exports__);
   }, "As Seen on"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "header__seenon-logos"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    src: "https://i.ibb.co/zxZ4NGN/logo-bbc.png",
+    src: "img/logo-bbc.png",
     alt: "bbc logo"
   }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    src: "https://i.ibb.co/hFJD1g4/logo-forbes.png",
+    src: "img/logo-forbes.png",
     alt: "forbes logo"
   }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    src: "https://i.ibb.co/DYvMcTx/logo-techcrunch.png",
+    src: "img/logo-techcrunch.png",
     alt: "tech-crunch logo"
   }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    src: "https://i.ibb.co/gvj4gnH/logo-bi.png",
+    src: "img/logo-bi.png",
     alt: "bi logo"
   })));
 });
@@ -37382,7 +37382,7 @@ __webpack_require__.r(__webpack_exports__);
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "home"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    src: "https://i.ibb.co/34xNhJP/house-1.jpg",
+    src: "img/house-1.jpg",
     alt: "House 1",
     className: "home__img"
   }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("svg", {
@@ -37412,7 +37412,7 @@ __webpack_require__.r(__webpack_exports__);
   }, "Contact realtor")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "home"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    src: "https://i.ibb.co/ZTdB7gZ/house-2.jpg",
+    src: "img/house-2.jpg",
     alt: "House 2",
     className: "home__img"
   }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("svg", {
@@ -37442,7 +37442,7 @@ __webpack_require__.r(__webpack_exports__);
   }, "Contact realtor")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "home"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    src: "https://i.ibb.co/PjFWYdr/house-3.jpg",
+    src: "img/house-3.jpg",
     alt: "House 3",
     className: "home__img"
   }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("svg", {
@@ -37472,7 +37472,7 @@ __webpack_require__.r(__webpack_exports__);
   }, "Contact realtor")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "home"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    src: "https://i.ibb.co/GWHyXyw/house-4.jpg",
+    src: "img/house-4.jpg",
     alt: "House 4",
     className: "home__img"
   }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("svg", {
@@ -37502,7 +37502,7 @@ __webpack_require__.r(__webpack_exports__);
   }, "Contact realtor")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "home"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    src: "https://i.ibb.co/5cYYLmC/house-5.jpg",
+    src: "img/house-5.jpg",
     alt: "House 5",
     className: "home__img"
   }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("svg", {
@@ -37532,7 +37532,7 @@ __webpack_require__.r(__webpack_exports__);
   }, "Contact realtor")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "home"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    src: "https://i.ibb.co/7tLn4vk/house-6.jpg",
+    src: "img/house-6.jpg",
     alt: "House 6",
     className: "home__img"
   }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("svg", {
@@ -37597,7 +37597,7 @@ __webpack_require__.r(__webpack_exports__);
   }, "Top 3 Realtors"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "realtors__list"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    src: "https://i.ibb.co/3CfK1tf/realtor-1.jpg",
+    src: "img/realtor-1.jpeg",
     alt: "Realtor 1",
     className: "realtors__img"
   }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
@@ -37607,7 +37607,7 @@ __webpack_require__.r(__webpack_exports__);
   }, "Okeowo Samson"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "realtors__sold"
   }, "345 houses sold")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    src: "https://i.ibb.co/M91qdpr/realtor-2.jpg",
+    src: "img/realtor-2.jpeg",
     alt: "Realtor 2",
     className: "realtors__img"
   }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
@@ -37617,7 +37617,7 @@ __webpack_require__.r(__webpack_exports__);
   }, "Dantata Aisha"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "realtors__sold"
   }, "280 houses sold")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    src: "https://i.ibb.co/G7QQ0Wr/realtor-3.jpg",
+    src: "img/realtor-3.jpeg",
     alt: "Realtor 3",
     className: "realtors__img"
   }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
@@ -37738,11 +37738,11 @@ __webpack_require__.r(__webpack_exports__);
   return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "story__pictures"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    src: "https://i.ibb.co/r47djxr/story-1.jpg",
+    src: "img/story-1.jpg",
     alt: "Couple",
     className: "story__img--1"
   }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    src: "https://i.ibb.co/PF18YP7/story-2.jpg",
+    src: "img/story-2.jpg",
     alt: "New house",
     className: "story__img--2"
   }));
@@ -37882,8 +37882,8 @@ var store = Object(redux__WEBPACK_IMPORTED_MODULE_0__["createStore"])(_reducers_
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! C:\Users\CamelCase\App\React Project\General Training\LARAVEL-MIX\my-app\src\index.jsx */"./src/index.jsx");
-module.exports = __webpack_require__(/*! C:\Users\CamelCase\App\React Project\General Training\LARAVEL-MIX\my-app\src\sass\main.scss */"./src/sass/main.scss");
+__webpack_require__(/*! C:\Users\CamelCase\App\React Project\General Training\ADVANCED CSS PROJECT\Nexter-React\src\index.jsx */"./src/index.jsx");
+module.exports = __webpack_require__(/*! C:\Users\CamelCase\App\React Project\General Training\ADVANCED CSS PROJECT\Nexter-React\src\sass\main.scss */"./src/sass/main.scss");
 
 
 /***/ })
